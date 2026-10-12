@@ -9,4 +9,4 @@ AIエージェント開発（Claude API / MCP / カスタムエージェント�
 - 📫 連絡先：（Zenn/Qiita/Xのリンクができたらここに追加）
 
 ### 🛠 作ったもの
-（最初のPoCが完成したらここにリンクを追加します）
+- [claude-text-summarizer](https://github.com/makohiro4/claude-text-summarizer) — Claude APIを使った文章要約エージェント
